@@ -61,6 +61,8 @@ Temporary Items
 /modules/**
 !/modules/default/**
 !/modules/README.md**
+!/modules/aiclient/aiclient.js
+!/modules/aiclientdebugger/aiclientdebugger.js
 
 # Ignore changes to the custom css files.
 /css/custom.css
